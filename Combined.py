@@ -6,7 +6,7 @@ import pandas as pd
 from pandas.io.json import json_normalize
 from pathlib import Path
 
-token = "AQAAAAAaCoOlAAhKpJBh0F90XUfPnb1cd0vp5hs"
+token = "Enter a Token"
 link4 = "https://api.direct.yandex.ru/v4/json/"
 link4_live = "https://api.direct.yandex.ru/live/v4/json/"
 
